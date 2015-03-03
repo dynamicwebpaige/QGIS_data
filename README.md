@@ -1,2 +1,2 @@
 # QGIS_data
-Shapefiles for use with PyQGIS.
+PyQGIS scripts; open-source .shp files for use with QGIS.
